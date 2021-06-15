@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-       pdx-real
+       feww
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
