@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-       feww
+       closer
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
