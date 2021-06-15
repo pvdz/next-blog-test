@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
+       sfo
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
