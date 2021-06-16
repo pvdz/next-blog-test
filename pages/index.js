@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-       closer
+       closer{woop}
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
@@ -19,3 +19,6 @@ export default function Home() {
     </Layout>
   )
 }
+
+let woop = 'x';
+
